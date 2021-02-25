@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+  }
+    .normal {
+    background-color: #3498db;
+    }
+
+    .smaller {
+    background-color: #8e44ad;
+
+    }   
+    .bigger {
+    background-color: #f1c40f; 
+    }
